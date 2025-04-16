@@ -25,7 +25,6 @@
 
 
     section#login > div#formulario {
-        border: 1px solid blue;
         width: 70%;
         float: right;
     }
